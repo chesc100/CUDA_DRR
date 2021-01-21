@@ -1,5 +1,5 @@
 # GPU accelerated generation of digitally reconstructed radiographs (DRR)
-# 已适配 linux（修改）
+# 已适配 linux（修改）,该项目源自(https://github.com/fabio86d/CUDA_DigitallyReconstructedRadiographs)，更改了linux下的编译命令
 
 ![](pics/DRR_example.png)
 
